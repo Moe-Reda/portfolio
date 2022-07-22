@@ -1,5 +1,5 @@
 import React from "react";
-import {AboutContainer, TextWrapper, Headline, Text} from './AboutElements'
+import {AboutContainer, Headline, Text} from './AboutElements'
 
 const About = () =>{
     return(
