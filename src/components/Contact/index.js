@@ -1,7 +1,7 @@
 import React from "react";
 import {ContactContainer, Headline, ElementsContainer, EmailButton, Message} from "./ContactElements"
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faEnvelope, faFile} from '@fortawesome/free-solid-svg-icons';
+import { faEnvelope} from '@fortawesome/free-solid-svg-icons';
 
 const Contact = () =>{
     return(
