@@ -3,7 +3,7 @@ import { CloseIcon, Icon, SidebarContainer, SidebarLink, SidebarMenu, SidebarWra
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faInstagram, faLinkedin, faGithub} from '@fortawesome/free-brands-svg-icons';
 import { faFile} from '@fortawesome/free-solid-svg-icons';
-import pdf from '../../documents/MohamedRedaMahboub.pdf';
+import pdf from '../../documents/mohamedredamahboub.pdf';
 
 const Sidebar = ({isOpen, toggle}) =>{
     return(
